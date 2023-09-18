@@ -45,14 +45,13 @@ Fundamental knowledge of portfolio theory and backtesting is assumed. If you nee
 please see the following links for more information:
 
 [Portfolio theory](https://corporatefinanceinstitute.com/resources/capital-markets/modern-portfolio-theory-mpt/)
-Portfolio backtesting: https://www.refinitiv.com/en/asset-management-solutions/portfolio-management/backtest-your-portfolio-performance
+[Portfolio backtesting](https://www.refinitiv.com/en/asset-management-solutions/portfolio-management/backtest-your-portfolio-performance)
 
 This demo specifically uses MATLAB's Portfolio object in conjunction with user-defined custom objectives.
 
 In this example, we specifically investigate equally weighted, most-diversified portfolio, and equal
 risk contribution objectives, each with a penalty parameter. More information about each of the objective
-functions can be found at the following link:
-https://www.mathworks.com/help/finance/diversify-portfolio-using-custom-objective-function.html#DiversiPortfoliosUseEstimateCustomObjectivePortfolioExample-3
+functions can be found at [this link](https://www.mathworks.com/help/finance/diversify-portfolio-using-custom-objective-function.html#DiversiPortfoliosUseEstimateCustomObjectivePortfolioExample-3)
 
 ## Experiment Manager for Asset Allocation
 Portfolio optimization can be used in conjunction with the Experiment Manager by first defining a training function and
