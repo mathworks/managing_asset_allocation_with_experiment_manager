@@ -44,7 +44,7 @@ Requires:
 Fundamental knowledge of portfolio theory and backtesting is assumed. If you need a refresher,
 please see the following links for more information:
 
-Portfolio theory: https://corporatefinanceinstitute.com/resources/capital-markets/modern-portfolio-theory-mpt/
+[Portfolio theory](https://corporatefinanceinstitute.com/resources/capital-markets/modern-portfolio-theory-mpt/)
 Portfolio backtesting: https://www.refinitiv.com/en/asset-management-solutions/portfolio-management/backtest-your-portfolio-performance
 
 This demo specifically uses MATLAB's Portfolio object in conjunction with user-defined custom objectives.
