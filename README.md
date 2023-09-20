@@ -1,5 +1,7 @@
 ## Managing Asset Allocation with the Experiment Manager
 
+![intro](images/intro.png)
+
 ## Overview
 For the workflow of portfolio optimization, it can be challenging to meet the portfolio optimization criteria when several objectives exist. Using the Experiment Manager, a portfolio manager or quant can easily assess the experiments and outcomes and select the best scenario that meets their criteria.
 
