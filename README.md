@@ -125,6 +125,6 @@ Feel free to contact me if you are interested in updates.
 The license is available in the License.txt file in this GitHub repository.
 
 ## Contact
-Sara Galante at sdavis@mathworks.com
+Sara Galante at sgalante@mathworks.com
 
 Copyright 2024 The MathWorks, Inc.
